@@ -88,6 +88,15 @@ Each code file is well-documented with comments to ensure clarity.
 - **Libraries/Frameworks**: The project relies on Streamlit for the web interface, OpenAI for natural language processing, LangChain for document handling, FAISS for vector-based search, and Google Calendar API for appointment booking.
 - **Configuration**: Set up your environment variables in the `.env` file and ensure your `credentials.json` file is properly configured.
 
+## Video Demonstration & Code Explanation
+
+Check out this YouTube video for a complete demonstration and code explanation of the chatbot:
+
+[![AI-Driven Mental Health Chatbot](https://img.youtube.com/vi/dXnDA0U6YyA/0.jpg)](https://youtu.be/dXnDA0U6YyA)
+
+[Watch the full video here](https://youtu.be/dXnDA0U6YyA).
+
+
 ## Usage
 
 - **Asking Questions**: Enter your mental health-related queries in the text box.
